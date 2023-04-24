@@ -1,5 +1,6 @@
 Welcome To Insider
 What Is Insider You May Ask
 Insider Is A Da Hood Streamable Script
-![image](https://user-images.githubusercontent.com/125096932/233906349-b9d5311d-feb6-49e8-b357-d2fb402407b0.png)
+![image](https://user-images.githubusercontent.com/125096932/233906442-b5bdbef3-550f-4b6d-82be-3968de099aaa.png)
+
 
