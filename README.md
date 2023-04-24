@@ -4,7 +4,7 @@ What Is Insider You May Ask?
 
 Insider Is A Da Hood Universal Lock Script
 
-![image](https://user-images.githubusercontent.com/125096932/233906442-b5bdbef3-550f-4b6d-82be-3968de099aaa.png)
+![image](https://user-images.githubusercontent.com/125096932/233907501-3a4d3ee1-0774-44c1-8f7c-20740d8f783a.png)
 
 What Is A Universal Script?
 
