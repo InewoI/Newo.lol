@@ -4,6 +4,10 @@ What Is Insider You May Ask?
 
 Insider Is A Da Hood Lock Script With Many Features
 
+ONLY USE ON DA HOOD
+
+Ping Spoofer
+
 Fps Dont Drop When Executed
 
 We Have A Resolver
