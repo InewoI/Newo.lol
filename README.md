@@ -2,34 +2,11 @@ Welcome To Insider
 
 What Is Insider You May Ask?
 
-Insider Is A Da Hood Lock Script With Many Features
+Insider Is A Da Hood Universal Lock Script 
 
-ONLY USE ON DA HOOD
+Im Still Modding The Script So When It Comes Out Then The Script Will Be In Here
 
-Ping Spoofer
 
-Fps Dont Drop When Executed
 
-We Have A Resolver
-
-Resolver Resolves Cframe,Desync,Underground,Sky It Resolves Any Antilock
-
-CamLock Is Crisp Smooth 
-
-Silent Aim Hits Everytime
-
-Aim Viewer Bypass
-
-Notifys The Player When A Mod Joins The Game
-
-Crisp Gui
-
-And More
-
-Free For Now 
-
-So Use It Until It Becomes Paid
-
- 
 
 
