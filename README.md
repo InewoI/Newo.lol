@@ -6,7 +6,7 @@ Just Have Fun With It
 
 It Has 
 
-Resolver. Resolves Anti-Lock
+Resolver. Resolves Anti-Lock --- Its Broken Rn Fixing It
 
 Mem-Sppof, Spoofs Memory
 
