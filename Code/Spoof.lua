@@ -1,0 +1,1 @@
+local v0=game:GetService("CoreGui"):WaitForChild("RobloxGui"):WaitForChild("PerformanceStats");local v1;for v4,v5 in next,v0:GetChildren() do if (v5.StatsMiniTextPanelClass.TitleLabel.Text=="Ping") then v1=v5.StatsMiniTextPanelClass.ValueLabel;break;end end local v2="0.00 ms";v1:GetPropertyChangedSignal("Text"):Connect(function()v1.Text=v2;end);v1.Text=v2;
