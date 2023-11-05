@@ -1,4 +1,4 @@
-This Is My Prvate Dh Lock Script
+This Is My Private Dh Lock Script
 
 U Can Use It If You Want I Dont Care
 
@@ -8,7 +8,7 @@ It Has
 
 Resolver. Resolves Anti-Lock --- Its Broken Rn Fixing It
 
-Mem-Sppof, Spoofs Memory
+Mem-Spoof, Spoofs Memory
 
 Ping-Spoof
 
